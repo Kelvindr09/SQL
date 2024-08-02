@@ -1,6 +1,7 @@
 create database hospital
 go 
 
+--Making new changes
 use hospital;
 create table Nurse
 (
