@@ -1,3 +1,11 @@
+-- =============================================
+-- Author:		Kelvin Oduwale
+-- Create date: 05-8-2024
+-- Description:	This code is to extract data from sql
+--				Do more analysis on Table Customers.
+--Revise Date: 06-10-2024
+--Version:		v1.0
+-- =============================================
 
 CREATE TABLE EmadeCustomer									
 ([ID] int, 
