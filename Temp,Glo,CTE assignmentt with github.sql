@@ -1,3 +1,12 @@
+-- =============================================
+-- Author:		Kelvin Oduwale
+-- Create date: 05-5-2024
+-- Description:	USing Temp table, CTE
+--				Do more analysis on Table Customers
+--Revise Date: 05-7-2024
+--Version:		v1.0
+-- =============================================
+
 use SQLTraining
 
 select * from Noble
