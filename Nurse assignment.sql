@@ -1,3 +1,11 @@
+-- =============================================
+-- Author:		Kelvin Oduwale
+-- Create date: 19-08-2024
+-- Description:	This code is to extract data from sql
+--				Do more analysis on Table Customers.
+--Revise Date: 20-10-2024
+--Version:		v1.0
+-- =============================================
 create database hospital
 go 
 
