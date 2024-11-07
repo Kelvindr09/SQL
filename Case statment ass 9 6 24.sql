@@ -1,3 +1,14 @@
+-- =============================================
+-- Author:		Kelvin Oduwale
+-- Create date: 05-17-2024
+-- Description:	This code is to extract data from sql
+--				Do more analysis on Table Customers.
+--Stored procedures
+
+--Revise Date: 08-27-2024
+--Version:		v1.0
+-- =============================================
+
 use SQLTrainingCase
 
 --Assignment on stored procedure 
