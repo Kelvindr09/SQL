@@ -1,3 +1,12 @@
+-- =============================================
+-- Author:		Kelvin Oduwale
+-- Create date: 05-5-2024
+-- Description:	This is a data migration to DEV, TEST,PROD FOR DIFFRENT CODES
+--				Do more analysis on Table Customers.
+--Revise Date: 05-7-2024
+--Version:		v1.0
+-- =============================================
+
 use SQLTraining
 
 --ASSIGNMENT
